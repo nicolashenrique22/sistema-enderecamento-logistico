@@ -101,3 +101,45 @@ imagens/dashboard.png
 ### Relatórios
 
 imagens/relatorios.png
+
+## Sobre o desenvolvedor
+
+### Nicolas Henrique Lima Iansen
+
+Estudante do Ensino Médio integrado ao curso técnico em Logística, com interesse em tecnologia aplicada às operações logísticas.
+
+Atualmente, estudo e desenvolvo conhecimentos nas seguintes áreas:
+
+- Python
+- Excel
+- Inteligência Artificial Generativa
+- Cibersegurança
+- Automação de processos
+- Análise e organização de dados
+- Controle de estoque
+- Endereçamento logístico
+
+Este projeto foi desenvolvido com o objetivo de unir conhecimentos de logística e tecnologia, criando uma solução para geração, controle e consulta de endereços de armazenagem.
+
+Durante o desenvolvimento, pratiquei conceitos de programação, manipulação de planilhas, criação de interfaces, validação de dados, movimentação de estoque, construção de dashboards e geração de relatórios.
+
+Busco continuar aprimorando meus conhecimentos e desenvolvendo projetos que possam contribuir para operações logísticas, análise de dados e tecnologia da informação.
+
+## Competências demonstradas neste projeto
+
+- Desenvolvimento de aplicações em Python
+- Criação de interfaces com Streamlit
+- Manipulação de dados com Pandas
+- Criação e edição de planilhas com OpenPyXL
+- Desenvolvimento de dashboards e indicadores
+- Organização de endereços logísticos
+- Controle de entradas e saídas de estoque
+- Validação de informações
+- Registro de histórico de movimentações
+- Exportação de relatórios em Excel
+- Documentação de projetos
+- Uso do GitHub para portfólio
+
+## Objetivo profissional
+
+Desenvolver experiência nas áreas de tecnologia, logística, automação e análise de dados, aplicando conhecimentos de programação para solucionar problemas reais e melhorar processos operacionais.
