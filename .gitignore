@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos confi*enciais
+.env
+.streamlit/secrets.toml
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xls
+
+# Arquivos do sistem*
+Thumbs.db
+desktop.ini
+.DS_Store
+
+* Arquivos de teste e backup
+.pytes*_cache/
+backup/
+backups/
+*.bak
+```*
